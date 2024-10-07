@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lab4_milestone2</string>
+    <string name="address">Address: </string>
+    <string name="noAddress">Could not find address.</string>
 </resources>
